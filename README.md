@@ -15,6 +15,8 @@ The category pipelines include the main distance calculations, clustering, sever
 
 The project uses public datasets from Open Data DC and the District Department of Transportation, including crash records, streetlights, speed cameras, speed humps, bicycle lanes, roadway centerlines, traffic volume data, and the High Injury Network.
 
+To run the Crashmap360 code, the above datasets must be installed and the paths must match the appropriate dataset.
+
 This project identifies candidate locations for further review. It does not prove that missing infrastructure caused crashes, and final decisions would require field review and engineering judgment.
 
 The assistance of large language models was used in developing parts of Crashmap 360's software. All design, algorithms, methodology decisions, and interpretations were made by the author.
